@@ -10,23 +10,23 @@ import Image from 'next/image';
 const navItems = [
   {
     text: 'Home',
-    link: '',
+    link: '/',
   },
   {
     text: 'Auctions',
-    link: '',
+    link: '/auctions',
   },
   {
     text: 'Cars',
-    link: '',
+    link: '/cars',
   },
   {
     text: 'About Us',
-    link: '',
+    link: '/about-us',
   },
   {
     text: 'Contact Us',
-    link: '',
+    link: 'contact-us',
   },
   {
     text: 'Login',
